@@ -1,7 +1,7 @@
 # Title
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore, voluptates!
 
-![](https://img.shields.io/badge/Bun-1.3.0-000?style=for-the-badge)
+![](https://img.shields.io/badge/Bun-1.3.3-000?style=for-the-badge)
 ![](https://img.shields.io/badge/TypeScript-5.9.0-000?style=for-the-badge)
 
 ## Setup
